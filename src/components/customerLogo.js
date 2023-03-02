@@ -1,4 +1,4 @@
-import { withLDConsumer } from "launchdarkly-react-client-sdk";
+/*import { withLDConsumer } from "launchdarkly-react-client-sdk";
 
 const customerLogo = ({ flags, ldClient }) => {
   // When using the underlying Javascript SDK, flag keys with dashes and periods are used normally
@@ -16,3 +16,4 @@ const customerLogo = ({ flags, ldClient }) => {
 };
 
 export default withLDConsumer()(customerLogo);
+*/
