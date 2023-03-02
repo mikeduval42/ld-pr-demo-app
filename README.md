@@ -32,7 +32,7 @@ Want to use GitHub Pages to publish your own copy of this? You've come to the ri
 * `show-customer-logo`: **boolean**
 * `release-heart`: **boolean**
 
-### Creating LaunchDarkly flags
+### Creating LaunchDarkly Flags
 
 
 
