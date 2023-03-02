@@ -1,5 +1,7 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 import QRCode from "react-qr-code";
-import React, { withLDConsumer } from "launchdarkly-react-client-sdk";
+import { withLDConsumer } from "launchdarkly-react-client-sdk";
 
 //Change QRURL to the URL where you'll be hosting this app
 const QRURL = "https://mikeduval42.github.io/ld-pr-demo-app/";

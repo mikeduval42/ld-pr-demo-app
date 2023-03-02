@@ -1,4 +1,6 @@
-import React, { withLDConsumer } from "launchdarkly-react-client-sdk";
+import React from 'react'
+import ReactDOM from 'react-dom'
+import { withLDConsumer } from "launchdarkly-react-client-sdk";
 import astronaut from "./../images/astronaut.png";
 import oldastronaut from "./../images/astronaut_old.png";
 
