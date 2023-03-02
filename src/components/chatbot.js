@@ -1,5 +1,5 @@
-
-import { withLDConsumer } from "launchdarkly-react-client-sdk";
+/*
+import React, { withLDConsumer } from "launchdarkly-react-client-sdk";
 import { Widget, addResponseMessage } from 'react-chat-widget';
 import 'react-chat-widget/lib/styles.css';
 import axios from 'axios';
@@ -81,3 +81,4 @@ const chatbot = ({ flags, ldClient }) => {
 };
 
 export default withLDConsumer()(chatbot);
+*/
